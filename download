@@ -1,0 +1,5 @@
+SUPABASE_URL=https://bgohfiryjuqetmonqrsz.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=sb_secret_3Llb7ceMb5L5uhU20Xfz7A_NJ8I1QJr
+N8N_WEBHOOK_URL=https://n8ngc.codeblazar.org/webhook/visionfind-investigation
+N8N_WEBHOOK_SECRET=
+PORT=3000
